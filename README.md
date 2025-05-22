@@ -1,3 +1,6 @@
+# 🎉 Overview
+A delightful interactive envelope card component built with React. This charming digital greeting card simulates opening a real envelope with animations and sparkle effects, revealing a personalized message inside.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
